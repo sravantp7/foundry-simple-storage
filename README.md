@@ -9,7 +9,7 @@ A basic smart contract that allow user to set favorite number and retrieve it.
 ## Initialize Foundry project
   Create a directory and run,
   ```bash
-     forge init
+  forge init
   ```
   It will create a basic starter project
   
